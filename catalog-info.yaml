@@ -6,6 +6,10 @@ metadata:
   tags:
     - springboot
     - java
+  labels:
+    segment: Digitalization_of_Services_and_Core_Systems
+  annotations:
+    basf.com/segment: Digitalization of Services & Core Systems
 spec:
   type: service
   lifecycle: production
